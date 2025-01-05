@@ -55,7 +55,6 @@ npm start
 cd ../frontend
 npm start
 
-6. Access the platform in your browser at http://localhost:3000.
    
 # 🤝 Contributing
 Contributions are welcome! If you have ideas for improvements or new features:
