@@ -75,6 +75,7 @@ Planned features and future updates:
 Mobile App Development: Launching iOS and Android apps for enhanced accessibility. Community Engagement: Introduce forums for farmers and consumers to share tips, recipes, and stories. Subscription Model: Allow recurring orders for staple items (e.g., weekly vegetable boxes). Logistics Integration: Partner with local delivery services for faster and eco-friendly distribution. Analytics for Farmers: Provide insights into sales, trends, and customer preferences.
 
 # 📞 Contact
-For questions or support: Email: s07327947@gmail.com GitHub: swapnilpandey026
+For questions or support: Email: s07327947@gmail.com
+GitHub: swapnilpandey026
 
 We hope this platform makes a meaningful impact by supporting local farmers and fostering a sustainable food ecosystem. 🌱
